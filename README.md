@@ -31,6 +31,6 @@
 <hr/>
 <div>
   <h2> Contato ✉️</h2>
-  <a href="https://www.linkedin.com/in/h%C3%ADcaro-gabriel-bauer-nonato-324a40227/" target="_blank"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/230px-LinkedIn_Logo.svg.png"/> </a>
+  <a href="https://www.linkedin.com/in/h%C3%ADcaro-gabriel-bauer-nonato-324a40227/" target="_blank"> <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> </a>
 </div>
 <hr/>
