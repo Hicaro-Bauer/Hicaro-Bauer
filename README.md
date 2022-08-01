@@ -14,6 +14,7 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Hicaro-Bauer&show_icons=true&bg_color=0,0B1726,0E3A73&hide_border=true&title_color=fff&text_color=fff%22&include_all_commits=true&count_private=true%22%20style=%22max-width:%20100%;"/>   
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Bauer&layout=compact&langs_count=7&bg_color=0,0B1726,0E3A73&title_color=fff&text_color=fff&hide_border=true%22%20style=%22max-width:%20100%;"/> 
 </div>
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 <div>
   <h2> Linguagens que estou Aprendendo </h2>
   <img width="40" height="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
