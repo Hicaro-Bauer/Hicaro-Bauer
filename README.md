@@ -1,10 +1,36 @@
-<h1 align="center">Olá 👋, Eu sou Hícaro Gabriel B. Nonato</h1>
-<h3 align="center">Atualmente, estou cursando o curso técnico em Desenvolvimento de Sistema - SENAI CTTI. E também o curso de aprendizagem industrial em Instalação e Reparação de Redes de Computadores - SENAI CTTI.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/h%C3%ADcaro-gabriel-bauer-nonato-324a40227/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hícaro gabriel bauer nonato" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<div>
+  <h1> Hello, World! Eu sou Hícaro 🖖🏻</h1>
+  <ul type="disc">
+    <li> <h3> 18 anos </h3> </li>
+    <li> <h3> Belo Horizonte / MG 🏠 </h3></li>
+    <li> <h3> Cursando Téc. em Desenvolvimento de Sistemas - SENAI-CTTI / Belo Horizonte </h3> </li>
+    <li> <h3> Aprendizagem Industrial em Instalação e Reparação de Redes de Computadores - SENAI CTTI / Belo Horizonte </h3> </li>
+    <li> <h3> Aprendiz na Anglo American 
+  </ul>
+</div>
+<hr/>
+<div align="center"> 
+  <a href="https://github.com/Hicaro-Bauer"> 
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Hicaro-Bauer&show_icons=true&bg_color=0,0B1726,0E3A73&hide_border=true&title_color=fff&text_color=fff%22&include_all_commits=true&count_private=true%22%20style=%22max-width:%20100%;"/>   
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Bauer&layout=compact&langs_count=7&bg_color=0,0B1726,0E3A73&title_color=fff&text_color=fff&hide_border=true%22%20style=%22max-width:%20100%;"/> 
+</div>
+<div>
+  <h2> Linguagens que estou Aprendendo </h2>
+  <img width="40" height="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" height="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+<hr/>
+<div>
+  <h2> Habilidades </h2>
+  <h3> Linguagens </h3>
+  <img width="40" height="40" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <h3> Banco de Dados </h3>
+  <img width="40" height="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+<hr/>
+<div>
+  <h2> Contato ✉️</h2>
+  <a href="https://www.linkedin.com/in/h%C3%ADcaro-gabriel-bauer-nonato-324a40227/" target="_blank"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/230px-LinkedIn_Logo.svg.png"/> </a>
+</div>
+<hr/>
