@@ -28,7 +28,7 @@
   <img width="40" height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fphp_919830&psig=AOvVaw3_IZeNBJ7cIymf4Jl19z_U&ust=1672004122045000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDLx-6ak_wCFQAAAAAdAAAAABAD" alt="php" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/105173431/209451529-e8efb7ce-e6fe-4992-ad0f-1e0c889a1bcc.png" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <h3> Banco de Dados </h3>
   <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
