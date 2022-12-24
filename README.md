@@ -29,7 +29,7 @@
   <img width="40" height="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/105173431/209451529-e8efb7ce-e6fe-4992-ad0f-1e0c889a1bcc.png" alt="php" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/105173431/209451551-acda796e-05ed-4ad3-8e39-173540412749.png" alt="java" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/105173431/209451551-acda796e-05ed-4ad3-8e39-173540412749.png" alt="java" width="40" height="40"/>
   <h3> Banco de Dados </h3>
   <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
   </div>
