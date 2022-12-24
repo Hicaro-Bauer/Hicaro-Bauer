@@ -19,20 +19,19 @@
 ![snake gif](https://github.com/Hicaro-Bauer/Hicaro-Bauer/blob/output/github-contribution-grid-snake.svg)
   
 <hr/>
-<div>
-  <h2> Linguagens que estou Aprendendo </h2>
-  <img width="40" height="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="40" height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="40" height="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
 <hr/>
 <div>
   <h2> Habilidades </h2>
   <h3> Linguagens </h3>
   <img width="40" height="40" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" height="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" height="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <h3> Banco de Dados </h3>
   <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-</div>
+  <h3> Ferramentas </h3>
+  
+  </div>
 <hr/>
 <div>
   <h2> Contato ✉️</h2>
