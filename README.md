@@ -37,7 +37,8 @@
 <div>
   <h2> Contato ✉️</h2>
   <p align="left">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hicaro_bauer67/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/h%C3%ADcaro-gabriel-bauer-nonato-324a40227/) </a>
+<a href="https://instagram.com/https://www.instagram.com/hicaro_bauer67/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white")</a> 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/h%C3%ADcaro-gabriel-bauer-nonato-324a40227/) </a>
 <a href="https://www.instagram.com/hicaro_bauer67/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hícaro gabriel bauer nonato" height="30" width="40" /></a>
 </p>
 </div>
