@@ -12,7 +12,7 @@
 <div align="center"> 
   <a href="https://github.com/Hicaro-Bauer"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>   
-  <img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> 
+  <img height="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> 
 </div>
  <hr/>
 
