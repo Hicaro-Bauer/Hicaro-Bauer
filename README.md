@@ -11,8 +11,8 @@
 <hr/>
 <div align="center"> 
   <a href="https://github.com/Hicaro-Bauer"> 
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Hicaro-Bauer&show_icons=true&bg_color=0,0B1726,0E3A73&hide_border=true&title_color=fff&text_color=fff%22&include_all_commits=true&count_private=true%22%20style=%22max-width:%20100%;"/>   
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Bauer&layout=compact&langs_count=7&bg_color=0,0B1726,0E3A73&title_color=fff&text_color=fff&hide_border=true%22%20style=%22max-width:%20100%;"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> 
 </div>
  <hr/>
 
