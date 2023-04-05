@@ -3,6 +3,7 @@
   <ul type="disc">
     <li> <h3> 18 anos </h3> </li>
     <li> <h3> Belo Horizonte / MG 🏠 </h3></li>
+    <li> <h3> Estudando Ciência da Computação - Universidade FUMEC / Belo Horizonte </h3> </li>
     <li> <h3> Cursando Téc. em Desenvolvimento de Sistemas - SENAI-CTTI / Belo Horizonte </h3> </li>
     <li> <h3> Aprendizagem Industrial em Instalação e Reparação de Redes de Computadores - SENAI CTTI / Belo Horizonte </h3> </li>
     <li> <h3> Aprendiz na Anglo American 
