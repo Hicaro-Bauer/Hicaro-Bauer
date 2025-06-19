@@ -1,12 +1,12 @@
 <div>
   <h1> Hello, World! Eu sou Hícaro 🖖🏻</h1>
   <ul type="disc">
-    <li> <h3> 20 anos </h3> </li>
+    <li> <h3> 21 anos </h3> </li>
     <li> <h3> Belo Horizonte / MG 🏠 </h3></li>
-    <li> <h3> Estudando Ciência da Computação - Universidade FUMEC / Belo Horizonte </h3> </li>
+    <li> <h3> Ciência da Computação - Universidade FUMEC / Belo Horizonte </h3> </li>
     <li> <h3> Téc. em Desenvolvimento de Sistemas - SENAI-CTTI / Belo Horizonte </h3> </li>
     <li> <h3> Aprendizagem Industrial em Instalação e Reparação de Redes de Computadores - SENAI CTTI / Belo Horizonte </h3> </li>
-    <li> <h3> Aprendiz na Anglo American 
+    <li> <h3> Estagiário na Anglo American 
   </ul>
 </div>
 <hr/>
