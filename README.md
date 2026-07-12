@@ -14,15 +14,15 @@
 
 <div align="center">
   <a href="https://github.com/Hicaro-Bauer">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicaro-Bauer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=86400"/>
   </a>
 </div>
 
 <hr/>
 
 <div align="center">
-  <img alt="snake gif" src="https://github.com/Hicaro-Bauer/Hicaro-Bauer/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake gif" src="https://raw.githubusercontent.com/Hicaro-Bauer/Hicaro-Bauer/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <hr/>
